@@ -2,20 +2,14 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-
-<p align="center">
-  <br>
-  <img src="[https://user-images.githubusercontent.com/61552222/139428758-85232978-5464-4be6-a4c4-8800b0380240.png](https://github.com/AdrianMargarit/Spectral-Syphon-Penetration-Testing-Tool/assets/96662075/1e653a95-08af-4116-922c-3f36fcb37be3)" />
-  <br>
-  <br>
-</p>
-
+![Screenshot 2023-09-22 163440](https://github.com/AdrianMargarit/Spectral-Syphon-Penetration-Testing-Tool/assets/96662075/2de0ffbe-3d47-4d31-ae1f-e20c43b51116)
 
 Spectral Syphon is a network and Penetration Testing Tool that I created as a cybersecurity research project for my university. It is solely made for educational purposes and to raise awareness. I am not responsible for the actions of other people.
 
 The utility was made with the idea in mind that the users should only use a single application with the necessary features instead of multiple other applications. Through Spectral Syphon I encourage users to discover the numerous benefits of using an application that can respond to their needs.
 
 In present, Spectral Syphon is capable of running a variety of complex tasks, like:
+
 	- **ifconfig**;
 	- **ping**;
 	- **traceroute**;

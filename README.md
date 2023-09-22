@@ -2,7 +2,7 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-![Screenshot 2023-09-22 163440](https://github.com/AdrianMargarit/Spectral-Syphon-Penetration-Testing-Tool/assets/96662075/2de0ffbe-3d47-4d31-ae1f-e20c43b51116)
+![Screenshot 2023-09-22 163440](https://github.com/AdrianMargarit/Spectral-Syphon-Penetration-Testing-Tool/assets/96662075/ae84ddf3-fded-411f-84f2-16cef1d7c5b1)
 
 Spectral Syphon is a network and Penetration Testing Tool that I created as a cybersecurity research project for my university. It is solely made for educational purposes and to raise awareness. I am not responsible for the actions of other people.
 
